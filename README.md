@@ -29,3 +29,6 @@ Tech:
 
 inquirer, mySQL, console.table, Javascript, Node.js
 
+Video Demo:
+https://youtu.be/gFjgCgExm1Q
+
